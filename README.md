@@ -4,7 +4,7 @@ Turn any blog post into a high-performing "one idea" marketing email — the exa
 
 **What it does:** paste a blog URL and Claude runs our pipeline — an insight memo grounded in the source (no invented claims), a one-idea email draft that never reuses the blog title, subject line options, and a social teaser. You review and hit send. The AI never touches the button.
 
-Full story with the numbers: [link to the X article]
+Full story with the numbers: [[We Gave our Newsletter to AI Agents]](https://x.com/JessicaLunk/status/2090521152154157471)
 
 ## Install
 
