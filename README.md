@@ -25,7 +25,7 @@ Just ask: *"Turn this post into an email: https://yourblog.com/your-post"*
 
 ## No email platform yet?
 
-[Create a free Benchmark Email account](https://www.benchmarkemail.com) — up to 500 contacts and 2,500 sends a month, full features on every plan.
+[Create a free Benchmark Email account](https://www.benchmarkemail.com) — up to 500 contacts and 1,000 sends a month, full features on every plan.
 
 ## License
 
